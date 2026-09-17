@@ -1,5 +1,6 @@
 {
   "version": "1.1.2",
   "date": "2026-09-17",
-  "url": "https://github.com/bgt29/app-status/releases/latest"
+  "url": "https://github.com/bgt29/app-status/releases/latest",
+  "min_version": "1.1.2"
 }
